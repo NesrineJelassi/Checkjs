@@ -1,1 +1,1 @@
-# Checkjs
+# Check1Algorithms
